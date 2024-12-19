@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+
+ text-decoration: none ;   
+}
+
+header img{
+    height: 50px;
+    width: 80px;
+
+}
+
+header{
+    background-color: turquoise ;
+    padding: 5px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: black;
+    background-color:aqua ;
+    border-radius: 10px;
+}
+footer{
+    background-color:aqua;
+    padding: 10px;
+}
+footer p{
+    background-color:white;
+    border-radius: 10px;
+}
+nav{
+    border: 5px solid aqua;
+    padding: 5px;
+    margin: 5px;
+}
+pav a{
